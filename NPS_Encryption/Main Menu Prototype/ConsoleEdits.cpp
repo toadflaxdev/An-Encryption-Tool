@@ -16,7 +16,9 @@ public:
 		info.dwSize = 100;
 		info.bVisible = FALSE;
 		SetConsoleCursorInfo(consoleHandle, &info);
-	}
+	}  
+
+	// comment
 
 	void DisableResize()
 	{
