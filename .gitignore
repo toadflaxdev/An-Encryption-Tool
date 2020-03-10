@@ -1,5 +1,2 @@
 *.ipch
 *.opendb
-
-# "Video*" means all with that name will be ignored
-# use https://www.youtube.com/watch?v=_vejzukmn4s for .gitignore help
