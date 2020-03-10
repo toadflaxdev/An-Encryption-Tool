@@ -5,3 +5,5 @@ local machine. To retrieve the data, you can run .exe, which will display whatev
 your clipboard.
 
 You can give the .exe a try via /NPS_Encryption/Program
+
+Blake Montaque. 10-03-2020
