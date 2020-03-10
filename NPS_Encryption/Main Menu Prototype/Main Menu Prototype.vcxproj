@@ -117,8 +117,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleEdits.cpp" />
+    <ClCompile Include="Funcs.cpp" />
+    <ClCompile Include="Glob.cpp" />
     <ClCompile Include="MM.cpp" />
     <ClCompile Include="Note.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Defs.h" />
+    <ClInclude Include="Funcs.h" />
+    <ClInclude Include="Glob.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
