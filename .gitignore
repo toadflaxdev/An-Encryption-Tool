@@ -3,6 +3,3 @@
 
 # "Video*" means all with that name will be ignored
 # use https://www.youtube.com/watch?v=_vejzukmn4s for .gitignore help
-NPS_Encryption/.vs/Main Menu Prototype/v16/Browse.VC.opendb
-NPS_Encryption/.vs/Main Menu Prototype/v16/Browse.VC.opendb
-*.opendb
