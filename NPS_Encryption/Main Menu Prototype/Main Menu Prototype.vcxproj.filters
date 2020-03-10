@@ -13,16 +13,30 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\cpps">
+      <UniqueIdentifier>{2b71bf1f-05c7-4597-adc9-2b38856a78fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Note.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Glob.cpp">
+      <Filter>Source Files\cpps</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleEdits.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Funcs.cpp">
+      <Filter>Source Files\cpps</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Glob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
