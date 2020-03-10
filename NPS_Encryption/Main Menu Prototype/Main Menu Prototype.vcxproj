@@ -116,11 +116,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleEdits.cpp" />
     <ClCompile Include="Funcs.cpp" />
     <ClCompile Include="Glob.cpp" />
     <ClCompile Include="MM.cpp" />
-    <ClCompile Include="Note.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Defs.h" />

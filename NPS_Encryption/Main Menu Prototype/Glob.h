@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <Windows.h>
 
 #ifndef MY_GLOBALS_H
 #define MY_GLOBALS_H
@@ -7,6 +8,10 @@
 // This is a declaration of your variable, which tells the linker this value
 // is found elsewhere.  Anyone who wishes to use it must include global.h,
 // either directly or indirectly.
+
+#pragma region
+extern HANDLE hInput;
+#pragma endregion HANDLE
 
 
 #pragma region 
