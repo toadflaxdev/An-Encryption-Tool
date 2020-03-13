@@ -6,8 +6,6 @@ You can give the .exe a try via /NPS_Encryption/Program
 
 <h2>Navigation: Use the arrow keys to move up and down then menu system.</h2>
 
-<img src="gifs/1.gif" class="center">
-
 ![](gifs/1.gif)
 
 <h2>Input: Enter in some data you want to encrypt</h2>
