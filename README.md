@@ -4,22 +4,22 @@ your clipboard.
 
 You can give the .exe a try via /NPS_Encryption/Program
 
-<center><h2>Navigate UP and DOWN the menu by using the arrow keys.</h2></center>
+<h2>Navigate UP and DOWN the menu by using the arrow keys.</h2>
 
 ![](gifs/1.gif)
 
-Type in some data you want to encrypt
+<h2>Type in some data you want to encrypt</h2>
 
 ![](gifs/2.gif)
 
-If the input was OK, this data will be sent to the local file
+<h2>If the input was OK, this data will be sent to the local file</h2>
 
 ![](gifs/3.gif)
 
-The folder C:\NPS_Encrypted_NHS will be created on your local drive, with the encrypted data.
+<h2>The folder <i>C:\NPS_Encrypted_NHS</i> will be created on your local drive, with the encrypted data.</h2>
 
 ![](gifs/4.gif)
 
-To unencryted the data, select the "GET NHS Number" option. You will be displayed the data stored in the "NHS_Encrypt.txt"
+<h2>To unencryted the data, select the "GET NHS Number" option. You will be displayed the data stored in the "NHS_Encrypt.txt"</h2>
 
 ![](gifs/5.gif)
