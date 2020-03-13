@@ -5,3 +5,5 @@ your clipboard.
 You can give the .exe a try via /NPS_Encryption/Program
 
 Blake Montaque. 10-03-2020
+
+![](gifs/Capture.png)
