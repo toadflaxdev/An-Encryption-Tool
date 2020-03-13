@@ -31,3 +31,7 @@ Blake Montaque. 10-03-2020.
 
 
 ![](gifs/5.gif)
+
+<h2>ERROR: If there are any manual changes made in the <i>NHS_Encrypt.txt</i> file, the .exe will throw an error.</h2>
+
+![](gifs/6.gif)
