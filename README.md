@@ -8,7 +8,7 @@ You can give the .exe a try via /NPS_Encryption/Program
 
 ![](gifs/1.gif)
 
-<h2>Input: Type in some data you want to encrypt</h2>
+<h2>Input: Enter in some data you want to encrypt</h2>
 
 
 ![](gifs/2.gif)
@@ -18,12 +18,12 @@ You can give the .exe a try via /NPS_Encryption/Program
 
 ![](gifs/3.gif)
 
-<h2>Local Data: The folder <i>C:\NPS_Encrypted_NHS</i> will be created on your local drive, with the encrypted data.</h2>
+<h2>Local Data: The folder <i>C:\NPS_Encrypted_NHS</i> will be created on your local drive. The .exe will create a .txt file, which will store your encrypted data.</h2>
 
 
 ![](gifs/4.gif)
 
-<h2>Decrypt: To unencryted the data, select the "GET NHS Number" option. You will be displayed the data stored in the "NHS_Encrypt.txt"</h2>
+<h2>Decrypt: To decrypt the data, select the "GET NHS Number" option (GET function). The .exe will read the contents in the <i>NHS_Encrypt.txt</i> file, and display the data.</h2>
 
 
 ![](gifs/5.gif)
