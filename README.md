@@ -6,4 +6,8 @@ You can give the .exe a try via /NPS_Encryption/Program
 
 Blake Montaque. 10-03-2020
 
-![](gifs/gifTest.gif)
+![](gifs/1.gif)
+![](gifs/2.gif)
+![](gifs/3.gif)
+![](gifs/4.gif)
+![](gifs/5.gif)
