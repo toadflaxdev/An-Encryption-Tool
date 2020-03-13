@@ -4,9 +4,10 @@ your clipboard.
 
 You can give the .exe a try via /NPS_Encryption/Program
 
-Blake Montaque. 10-03-2020
+Blake Montaque. 10-03-2020.
 
-<img src="gifs/1.gif" width="100"
+<img src="gifs/1.gif" width="100">
+
 ![](gifs/1.gif)
 ![](gifs/2.gif)
 ![](gifs/3.gif)
