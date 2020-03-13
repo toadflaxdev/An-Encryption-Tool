@@ -4,7 +4,7 @@ your clipboard.
 
 You can give the .exe a try via /NPS_Encryption/Program
 
-<h2>Navigate UP and DOWN the menu by using the arrow keys.</h2>
+<h2><center>Navigate UP and DOWN the menu by using the arrow keys.</center></h2>
 
 ![](gifs/1.gif)
 
